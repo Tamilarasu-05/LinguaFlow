@@ -3,6 +3,5 @@ The Translator is an intuitive platform that supports translation between 100+ l
 
 To run the application:
 bash
-Copy
-Edit
+
 python app.py
