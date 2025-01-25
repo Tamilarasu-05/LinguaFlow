@@ -5,3 +5,6 @@ To run the application:
 bash
 
 python app.py
+
+output
+![output](https://github.com/Tamilarasu-05/LinguaFlow/blob/main/output.png)
